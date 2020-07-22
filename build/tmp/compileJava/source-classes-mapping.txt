@@ -1,0 +1,11 @@
+io/confluent/developer/avro/Movie.java
+ io.confluent.developer.avro.Movie
+ io.confluent.developer.avro.Movie$1
+ io.confluent.developer.avro.Movie$Builder
+io/confluent/developer/avro/RawMovie.java
+ io.confluent.developer.avro.RawMovie
+ io.confluent.developer.avro.RawMovie$1
+ io.confluent.developer.avro.RawMovie$Builder
+io/confluent/developer/TransformStream.java
+ io.confluent.developer.TransformStream
+ io.confluent.developer.TransformStream$1
